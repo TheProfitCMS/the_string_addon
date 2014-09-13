@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["zykin-ilya@ya.ru"]
   spec.summary       = %q{Helper methods for String class}
   spec.description   = %q{Few reusable methods for String}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/TheProfitCMS/TheStringAddon"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
